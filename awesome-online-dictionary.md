@@ -9,4 +9,6 @@
 # english to chinese
 
 * [谷歌词典](https://gdictchinese.freecollocation.com/)
+* [在线牛津搭配词典](http://collocationdictionary.freedicts.com/)
+* [有道词典](https://dict.youdao.com/)
 * 
